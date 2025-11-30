@@ -1,4 +1,4 @@
-#HOW TO RUN
+# HOW TO RUN
 ````bash
 => CLONE GIT REPO & CD INTO FOLDER
 => npm install
